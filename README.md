@@ -1,26 +1,18 @@
 # marketing
 
-## Project setup
+## Development
+
+If you don't have jekyll installed already
+
 ```
-npm install
+gem install jekyll
 ```
 
-### Compiles and hot-reloads for development
+In the project directory:
+
 ```
-npm run serve
+bundle install
+jekyll serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Since `now` already came with the project, run `npm run deploy` to deploy.
