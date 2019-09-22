@@ -11,6 +11,8 @@ $card-bg: $info;
 $font-family-sans-serif: 'Open Sans', sans-serif;
 $font-size-base: 1.25rem;
 
+$navbar-light-color: darken($success, 30);
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
 $fa-font-path: "/fontawesome/webfonts";
